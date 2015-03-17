@@ -1,0 +1,8 @@
+D:\GitHub2\InvitationTeachers\InvitationTeachers\bin\Debug\InvitationTeachers.dll
+D:\GitHub2\InvitationTeachers\InvitationTeachers\bin\Debug\InvitationTeachers.pdb
+D:\GitHub2\InvitationTeachers\InvitationTeachers\obj\Debug\InvitationTeachers.MainForm.resources
+D:\GitHub2\InvitationTeachers\InvitationTeachers\obj\Debug\InvitationTeachers.Properties.Resources.resources
+D:\GitHub2\InvitationTeachers\InvitationTeachers\obj\Debug\InvitationTeachers.csproj.GenerateResource.Cache
+D:\GitHub2\InvitationTeachers\InvitationTeachers\obj\Debug\InvitationTeachers.dll
+D:\GitHub2\InvitationTeachers\InvitationTeachers\obj\Debug\InvitationTeachers.pdb
+D:\GitHub2\InvitationTeachers\InvitationTeachers\obj\Debug\InvitationTeachers.csprojResolveAssemblyReference.cache
